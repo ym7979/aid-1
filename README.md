@@ -1,2 +1,2 @@
 #readme
-![](mm.jpg)
+![./](mm.jpg)
